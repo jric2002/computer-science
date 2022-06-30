@@ -1,6 +1,8 @@
 # c++
 *.exe
 *.o
+*.out
 
 # java
 *.jar
+*.class
